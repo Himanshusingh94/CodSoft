@@ -1,0 +1,72 @@
+*{
+font-family: "Inter", sans-serif;
+}
+img.custom{
+height:56px;
+}
+button.whatsappbtn{
+border:2px solid #27AE60;
+padding:10px 18px;
+color:#27AE60;
+font-size:16px;
+}
+button.whatsappbtn:hover{
+border:2px solid #27AE60;
+padding:10px 18px;
+color:#27AE60;
+
+
+}
+button.whatsappbtn i{
+color:#27AE60;
+}
+
+button.call{
+background:linear-gradient(to right, #0ACEFE,#2699FB);
+color:white;
+padding:10px 18px;
+
+}
+div.bannerContent h1{
+font-size:38px;
+font-weight: 700;
+}
+div.bannerContent h1 span{
+color:#2699FB;
+}
+div.bannerContent p{
+font-size:19px;
+font-weight: 450;
+}
+div.bannerContent ul{
+list-style:none;
+font-size:18px;
+}
+div.bannerContent ul li i{
+color:#2699FB;
+
+}
+div.mdIcons{
+align-items:center;
+ justify-content:center;
+}
+div.bannerContentbtn button{
+width:50%;
+}
+ button.fixAppointment{
+border: 1px solid black;
+background:linear-gradient(to left, #0ACEFE,#2699FB);
+color:white;
+}
+button.knowMore{
+border: 1px solid black;
+color:black;
+}
+
+
+
+div.carousel-item img {
+            width: auto;
+            height: 350px; /* Adjust height as needed */
+            object-fit: cover;
+        }
